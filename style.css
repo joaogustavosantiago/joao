@@ -1,0 +1,19 @@
+body{
+     background-color: blue
+     color: black;
+     display:  flex;
+     justify-content: center;
+     aling-items: center;
+     min-heinght: 100vh;
+}
+
+h1{
+    color: black;
+}
+
+.caixa-principal{
+      background-color: beige;
+      width: 90%;
+      text-align: center;
+      padding: 20px;
+}
